@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: kasem project2, Configuration: Debug Any CPU ------
+1>  kasem project2 -> C:\Users\CRIZMA MEGA STORE\source\repos\kasem project2\kasem project2\bin\Debug\kasem project2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
